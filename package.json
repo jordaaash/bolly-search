@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@scure/bip39": "^1.2.2",
+    "bs58": "^5.0.0",
+    "ed25519-keygen": "^0.4.10",
+    "js-combinatorics": "^2.1.2"
+  }
+}
